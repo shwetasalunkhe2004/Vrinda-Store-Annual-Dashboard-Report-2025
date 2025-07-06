@@ -77,9 +77,9 @@ Use slicers (Month, Category, Channel) to interactively filter data
 
 View visualizations and insights
 
-📸 Dashboard Screenshot
+## Dashboard Screenshot
 
-🧠 Insights & Conclusion
+## Insights & Conclusion
 The store has a strong women-centric audience.
 
 Tamil Nadu and Karnataka are key markets to focus marketing.
